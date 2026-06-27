@@ -1,0 +1,7 @@
+{
+  "version": "1.3.0",
+  "url": "https://github.com/Orcanxt/Restaurant-DesktopEXE/releases/download/v1.3.0/RestaurantPOS.exe",
+  "notes": "Adds in-app auto-update (Back Office -> Software Update) with SHA-256 integrity check and a startup update notification.",
+  "mandatory": false,
+  "sha256": "08CCAF25EC9795361FDB9F4851ABC9ACFF3E8578E235A497DE15599A1ADE7765"
+}
