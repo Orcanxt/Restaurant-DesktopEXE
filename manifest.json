@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/Orcanxt/Restaurant-DesktopEXE/releases/download/v1.3.0/RestaurantPOS.exe",
-  "notes": "Adds in-app auto-update (Back Office -> Software Update) with SHA-256 integrity check and a startup update notification.",
+  "version": "1.3.1",
+  "url": "https://github.com/Orcanxt/Restaurant-DesktopEXE/releases/download/v1.3.1/RestaurantPOS.exe",
+  "notes": "Removes the sha256 hint from the Software Update panel (UI only; integrity check unchanged).",
   "mandatory": false,
-  "sha256": "08CCAF25EC9795361FDB9F4851ABC9ACFF3E8578E235A497DE15599A1ADE7765"
+  "sha256": "48817B4D3174EFF2C1C0FEF2A88E31921AD48AD3F0E0FCBD3FE3A26A3C348DB7"
 }
